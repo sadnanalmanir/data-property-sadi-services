@@ -148,7 +148,7 @@ docker-compose up --build -d
 ## Test inputs from command line using curl
 
 ```
-cd data-property-sadi-services-project
+cd data-property-sadi-services
 
 ```
 
