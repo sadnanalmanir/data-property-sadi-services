@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+    <display-name>Archetype Created Web Application</display-name>    
+    <servlet>
+        <servlet-name>getGreeting</servlet-name>
+        <servlet-class>uk.ac.rothamsted.ide.data.property.sadi.services.GetGreeting</servlet-class>
+    </servlet>    
+    <servlet>
+        <servlet-name>getAccommodation</servlet-name>
+        <servlet-class>uk.ac.rothamsted.ide.data.property.sadi.services.GetAccommodation</servlet-class>
+    </servlet>    
+    <servlet>
+        <servlet-name>getAge</servlet-name>
+        <servlet-class>uk.ac.rothamsted.ide.data.property.sadi.services.GetAge</servlet-class>
+    </servlet>    
+    <servlet>
+        <servlet-name>getConvertedCurrency</servlet-name>
+        <servlet-class>uk.ac.rothamsted.ide.data.property.sadi.services.GetConvertedCurrency</servlet-class>
+    </servlet>    
+    <servlet>
+        <servlet-name>getGreetingFail</servlet-name>
+        <servlet-class>uk.ac.rothamsted.ide.data.property.sadi.services.GetGreetingFail</servlet-class>
+    </servlet>    
+    <servlet>
+        <servlet-name>computeBMIFail</servlet-name>
+        <servlet-class>uk.ac.rothamsted.ide.data.property.sadi.services.ComputeBMIFail</servlet-class>
+    </servlet>    
+    <servlet>
+        <servlet-name>computeBMISuccess</servlet-name>
+        <servlet-class>uk.ac.rothamsted.ide.data.property.sadi.services.ComputeBMISuccess</servlet-class>
+    </servlet>    
+    <servlet>
+        <servlet-name>getFullNameFail</servlet-name>
+        <servlet-class>uk.ac.rothamsted.ide.data.property.sadi.services.GetFullNameFail</servlet-class>
+    </servlet>    
+    
+    <servlet-mapping>
+        <servlet-name>getGreeting</servlet-name>
+        <url-pattern>/getGreeting</url-pattern>
+    </servlet-mapping>  
+    <servlet-mapping>
+        <servlet-name>getAccommodation</servlet-name>
+        <url-pattern>/getAccommodation</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>getAge</servlet-name>
+        <url-pattern>/getAge</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>getConvertedCurrency</servlet-name>
+        <url-pattern>/getConvertedCurrency</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>getGreetingFail</servlet-name>
+          <url-pattern>/getGreetingFail</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>computeBMIFail</servlet-name>
+        <url-pattern>/computeBMIFail</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>computeBMISuccess</servlet-name>
+        <url-pattern>/computeBMISuccess</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>getFullNameFail</servlet-name>
+        <url-pattern>/getFullNameFail</url-pattern>
+    </servlet-mapping>
+    
+</web-app>

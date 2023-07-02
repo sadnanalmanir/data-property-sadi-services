@@ -1,0 +1,23 @@
+### Get the service description
+GET http://localhost:8080/data-property-sadi-services/getAccommodation
+Accept: text/rdf
+
+### POST a dummy variety in RDF to retrieve all varieties and associated information
+# curl -H 'Content-Type: text/rdf' -H 'Accept: text/rdf' --data @./ontology-data/sample_input/getAccommodation/1.rdf http://localhost:8080/data-property-sadi-services/getAccommodation
+POST http://localhost:8080/data-property-sadi-services/getAccommodation
+Accept: text/rdf
+Content-Type: text/rdf
+
+< ../../../../../../../../../../../ontology-data/sample_input/getAccommodation/1.rdf
+
+
+### POST a dummy variety in n3 to retrieve all varieties and associated information
+# curl -H 'Content-Type: text/rdf+n3' -H 'Accept: text/rdf+n3' --data @./ontology-data/sample_input/getAccommodation/1.n3 http://localhost:8080/data-property-sadi-services/getAccommodation
+POST http://localhost:8080/data-property-sadi-services/getAccommodation
+Accept: text/rdf+n3
+Content-Type: text/rdf+n3
+
+< ../../../../../../../../../../../ontology-data/sample_input/getAccommodation/1.n3
+
+
+

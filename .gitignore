@@ -1,0 +1,5 @@
+# Project exclude paths
+target/
+hydra-gui-backend/
+Dockerfile
+docker-compose.yaml

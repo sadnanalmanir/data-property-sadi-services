@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://localhost:8080/ontology-data/domain-ontology.owl#">
+
+  <rdf:Description rdf:about="http://example.com/person#">
+    <rdf:type rdf:resource="http://localhost:8080/ontology-data/service-ontology/getGreetingFail.owl#Input"/>
+    <rdf:type rdf:resource="http://localhost:8080/ontology-data/domain-ontology.owl#FirstName"/>
+    <ns0:HAS_VALUE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">John</ns0:HAS_VALUE>
+  </rdf:Description>
+  
+</rdf:RDF>

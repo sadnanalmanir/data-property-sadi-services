@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/agricultural_terminology.owl" uri="http://localhost:8080/ontology-data/agricultural_terminology.owl"/>
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/agricultural_terminology.owl" uri="file:/Users/ebspencer/dev/godan.ipsnp/eggplantdemo/ontologies/agricultural_terminology.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getHarvestCostPerAcre.owl" uri="getHarvestCostPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPesticideIngredientCostByPest.owl" uri="getPesticideIngredientCostByPest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPesticideIngredientCostByVariety.owl" uri="getPesticideIngredientCostByVariety.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPests.owl" uri="getPests.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getProfitPerAcre.owl" uri="getProfitPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getRevenuePerAcre.owl" uri="getRevenuePerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getSeedCostByVariety.owl" uri="getSeedCostByVariety.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getVarieties.owl" uri="getVarieties.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473298817918" name="http://www.semanticweb.org/bspencer/ontologies/2016/8/untitled-ontology-59" uri="getOperatingCostsPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473278962308" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getHarvestCostPerAcre.owl" uri="getHarvestCostPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473278962308" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPesticideIngredientCostByPest.owl" uri="getPesticideIngredientCostByPest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473278962308" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPesticideIngredientCostByVariety.owl" uri="getPesticideIngredientCostByVariety.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473278962308" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPests.owl" uri="getPests.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473278962308" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getRevenuePerAcre.owl" uri="getRevenuePerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473278962308" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getSeedCostByVariety.owl" uri="getSeedCostByVariety.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473278962308" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getVarieties.owl" uri="getVarieties.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473278962308" name="http://www.semanticweb.org/bspencer/ontologies/2016/8/untitled-ontology-59" uri="getOperatingCostsPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473305830541" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getHarvestCostPerAcre.owl" uri="getHarvestCostPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473305830541" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPesticideIngredientCostByPest.owl" uri="getPesticideIngredientCostByPest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473305830541" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPesticideIngredientCostByVariety.owl" uri="getPesticideIngredientCostByVariety.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473305830541" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getPests.owl" uri="getPests.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473305830541" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getSeedCostByVariety.owl" uri="getSeedCostByVariety.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473305830541" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getTotalCostPerAcre.owl" uri="getTotalCostPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473305830541" name="http://localhost:8080/ontology-data/sadi-service-ontologies/getVarieties.owl" uri="getVarieties.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473305830541" name="http://www.semanticweb.org/bspencer/ontologies/2016/8/untitled-ontology-59" uri="getOperatingCostsPerAcre.owl"/>
+    </group>
+</catalog>

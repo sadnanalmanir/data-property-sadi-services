@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix do: <http://localhost:8080/ontology-data/domain-ontology.owl#> .
+@prefix service: <http://localhost:8080/ontology-data/service-ontology/getGreetingFail.owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://example.com/person#> .
+
+
+ex:1 rdf:type service:Input ;
+     rdf:type do:Person ;
+     do:has_first_name ex:node1 .
+
+ex:node1 rdf:type do:FirstName ;
+     do:HAS_VALUE "John"^^xsd:string .
+
+     
+

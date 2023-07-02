@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/domain-ontology.owl" uri="file:/home/sadnan/rothamsted/deployments/sadi-services/data-property-test-deployment/data-property-sadi-services-project/ontology-data/domain-ontology.owl"/>
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/domain-ontology.owl" uri="file:/home/sadnan/rothamsted/deployments/sadi-services/data-property-test-deployment/data-property-sadi-services-project/ontology-data/domain-ontology.owl"/>
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/domain-ontology.owl" uri="file:/home/sadnan/rothamsted/deployments/sadi-services/data-property-test-deployment/data-property-sadi-services-project/ontology-data/domain-ontology.owl"/>
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/domain-ontology.owl" uri="file:/home/sadnan/rothamsted/deployments/sadi-services/data-property-test-deployment/data-property-sadi-services-project/ontology-data/domain-ontology.owl"/>
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/domain-ontology.owl" uri="file:/home/sadnan/rothamsted/deployments/sadi-services/data-property-test-deployment/data-property-sadi-services-project/ontology-data/domain-ontology.owl"/>
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/domain-ontology.owl" uri="file:/home/sadnan/rothamsted/deployments/sadi-services/data-property-test-deployment/eggplant-sadi-services-project/ontology-data/domain-ontology.owl"/>
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/domain-ontology.owl" uri="file:/home/sadnan/rothamsted/deployments/sadi-services/data-property-test-deployment/eggplant-sadi-services-project/ontology-data/domain-ontology.owl"/>
+    <uri id="Imports Wizard Entry" name="http://localhost:8080/ontology-data/domain-ontology.owl" uri="file:/home/sadnan/rothamsted/deployments/sadi-services/data-property-test-deployment/eggplant-sadi-services-project/ontology-data/domain-ontology.owl"/>
+</catalog>

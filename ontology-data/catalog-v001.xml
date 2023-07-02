@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://git-ainf.aau.at/debug_ontology#141668839904275" uri="agricultural_terminology1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://git-ainf.aau.at/debug_ontology#141669130143876" uri="agricultural_terminologydebug.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/agricultural_terminology.owl" uri="agricultural_terminology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getHarvestCostPerAcre.owl" uri="sadi-service-ontologies/getHarvestCostPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getPesticideIngredientCostByPest.owl" uri="sadi-service-ontologies/getPesticideIngredientCostByPest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getPesticideIngredientCostByVariety.owl" uri="sadi-service-ontologies/getPesticideIngredientCostByVariety.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getPests.owl" uri="sadi-service-ontologies/getPests.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getProfitPerAcre.owl" uri="sadi-service-ontologies/getProfitPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getRevenuePerAcre.owl" uri="sadi-service-ontologies/getRevenuePerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getSeedCostByVariety.owl" uri="sadi-service-ontologies/getSeedCostByVariety.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getTotalCostPerAcre.owl" uri="sadi-service-ontologies/getTotalCostPerAcre.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="duplicate:http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getVarieties.owl" uri="sadi-service-ontologies/getPesticideBee.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="duplicate:http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getVarieties.owl" uri="sadi-service-ontologies/getPubMed.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="duplicate:http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getVarieties.owl" uri="sadi-service-ontologies/getVarieties.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://boba.unbsj.ca:8080/ontology-data/sadi-service-ontologies/getVarietyTrait.owl" uri="sadi-service-ontologies/getVarietyTrait.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1473626291142" name="http://www.semanticweb.org/bspencer/ontologies/2016/8/untitled-ontology-59" uri="sadi-service-ontologies/getOperatingCostsPerAcre.owl"/>
+    </group>
+</catalog>
