@@ -9,7 +9,7 @@ a service.
 - xsd:boolean
 - xsd:integer
 - xsd:float
-- xsd:datetime
+- xsd:dateTime
 
 ## Services
 
