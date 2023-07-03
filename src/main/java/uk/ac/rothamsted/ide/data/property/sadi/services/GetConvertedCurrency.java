@@ -28,8 +28,6 @@ public class GetConvertedCurrency extends SimpleSynchronousServiceServlet {
         
         log.info("Service invoked: getConvertedCurrency");
 
-        // Extracting literals (lexical form and type) from the input
-        //String disability = input.getRequiredProperty(Vocab.HAS_VALUE).getLiteral().getLexicalForm();
         float amountInUSD = input.getRequiredProperty(Vocab.HAS_VALUE).getFloat();
         log.info("amoutn in USD: " + amountInUSD);
 

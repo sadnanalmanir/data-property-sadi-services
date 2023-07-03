@@ -57,6 +57,17 @@ years_old some xsd:integer
 converted_to some xsd:float
 ```
 
+### getGenerationName - xsd:dateTime with success
+- Input:
+```text
+(rdf:type value BirthDay)
+ and (HAS_VALUE exactly 1 xsd:dateTime)
+```
+- Output:
+```text
+has_generation_name some xsd:string
+```
+
 ### getGreetingFail - xsd:string with failure
 - Input:
 ```text
@@ -180,6 +191,12 @@ curl -H 'Content-Type: text/rdf+n3' -H 'Accept: text/rdf+n3' --data @./ontology-
 
 ```shell
 curl -H 'Content-Type: text/rdf+n3' -H 'Accept: text/rdf+n3' --data @./ontology-data/sample_input/getConvertedCurrency/1.n3 http://localhost:8080/data-property-sadi-services/getConvertedCurrency
+```
+
+### getGenerationName
+
+```shell
+curl -H 'Content-Type: text/rdf+n3' -H 'Accept: text/rdf+n3' --data @./ontology-data/sample_input/getGenerationName/1.n3 http://localhost:8080/data-property-sadi-services/getGenerationName
 ```
 
 ### getGreetingFail

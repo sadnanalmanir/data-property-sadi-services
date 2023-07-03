@@ -26,12 +26,9 @@ public class GetAccommodation extends SimpleSynchronousServiceServlet {
         
         log.info("Service invoked: GetAccommodation");
 
-        // Extracting literals (lexical form and type) from the input
-        //String disability = input.getRequiredProperty(Vocab.HAS_VALUE).getLiteral().getLexicalForm();
         boolean disability = input.getRequiredProperty(Vocab.HAS_VALUE).getBoolean();
         log.info("disability: " + disability);
 
-        
         output.addLiteral(Vocab.need_accommodation, disability);
         
         log.info("All done.");

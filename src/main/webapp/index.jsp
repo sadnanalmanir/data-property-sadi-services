@@ -35,6 +35,7 @@
                 <li><a href="./computeBMIFail">computeBMIFail</a></li>
                 <li><a href="./computeBMISuccess">computeBMISuccess</a></li>
                 <li><a href="./getFullNameFail">getFullNameFail</a></li>
+                <li><a href="./getGenerationName">getGenerationName</a></li>
             </Ul>
         </div> <!-- content -->
         <div id='footer'>

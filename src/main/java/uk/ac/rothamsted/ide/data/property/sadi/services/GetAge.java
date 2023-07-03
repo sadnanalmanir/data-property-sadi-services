@@ -28,8 +28,6 @@ public class GetAge extends SimpleSynchronousServiceServlet {
         
         log.info("Service invoked: getAge");
 
-        // Extracting literals (lexical form and type) from the input
-        //String disability = input.getRequiredProperty(Vocab.HAS_VALUE).getLiteral().getLexicalForm();
         int birthYear = input.getRequiredProperty(Vocab.HAS_VALUE).getInt();
         log.info("birth year: " + birthYear);
 
