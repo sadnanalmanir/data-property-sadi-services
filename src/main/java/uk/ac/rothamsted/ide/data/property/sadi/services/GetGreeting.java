@@ -26,7 +26,6 @@ public class GetGreeting extends SimpleSynchronousServiceServlet {
         
         log.info("Service invoked: getGreeting");
 
-        // Extracting literals (lexical form and type) from the input
         String firstName = input.getRequiredProperty(Vocab.HAS_VALUE).getString();
         log.info("First name: "+firstName);
 
