@@ -7,7 +7,7 @@ a service.
 ## Types of data values as inputs
 - xsd:string
 - xsd:boolean
-- xsd:integer
+- xsd:integer (<span style="color:red">Not **xsd:int**</span>)
 - xsd:float
 - xsd:dateTime
 
