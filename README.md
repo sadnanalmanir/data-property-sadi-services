@@ -8,6 +8,7 @@ a service.
 - xsd:string
 - xsd:boolean
 - xsd:integer (<span style="color:red">Not **xsd:int**</span>)
+- **On HYDRA GUI, use just the number e.g. 1, 193, 12 as the Literal value without any xsd:integer type. For example, 1 not "1"^^xsd:integer**
 - xsd:float
 - xsd:dateTime
 
